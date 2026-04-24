@@ -1,4 +1,4 @@
-name: add-env
+name: analisis_de_datos
 channels:
   - conda-forge
   - defaults

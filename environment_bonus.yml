@@ -1,4 +1,4 @@
-name: add-bonus
+name: analisis_de_datos_bonus
 channels:
   - conda-forge
   - defaults
