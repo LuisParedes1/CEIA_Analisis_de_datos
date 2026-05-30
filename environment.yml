@@ -1,4 +1,4 @@
-name: add-env
+name: analisis_de_datos
 channels:
   - conda-forge
   - defaults
@@ -18,3 +18,7 @@ dependencies:
   - category_encoders
   - nltk
   - umap-learn
+  - pip
+  - pip:
+    - kagglehub==1.0.0
+    - kagglesdk==0.1.27
